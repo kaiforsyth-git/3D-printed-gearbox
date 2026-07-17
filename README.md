@@ -34,7 +34,7 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
        alt="SolidWorks gearbox assembly">
 </p>
 
-<p align="center"><img src="Media/cad-renders/compound-input-gear.png" width="45%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/cad-renders/selector-slider.png" width="40%" alt="Disassembled gearbox components, shafts and casing"></p>
+<p align="center"><img src="Media/cad-renders/compound-input-gear.png" width="43%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/cad-renders/selector-slider.png" width="42%" alt="Disassembled gearbox components, shafts and casing"></p>
 <p align="center">
  
 </p>
