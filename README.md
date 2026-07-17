@@ -1,17 +1,23 @@
-# Five-Speed 3D-Printed Gearbox
+## Physical Prototype
 
-A functional five-speed gearbox with reverse, designed in SolidWorks and manufactured primarily using FDM 3D printing.
+<p align="center">
+  <img src="images/physical-prototype/geartrain-front-view.jpg" width="85%" alt="Front view of the assembled gearbox geartrain">
+</p>
 
-## Project Details
+<p align="center"><em>Assembled gearbox with the internal spur-gear system exposed.</em></p>
 
-- Five-speed transmission with reverse
-- 1:1 direct-drive ratio
-- SolidWorks part and assembly modelling
-- 3D-printed components and housing
-- Split casing and shaft design to accommodate printer build-volume limits
-- Physical assembly, testing and iterative refinement
-- Completed working prototype
+<p align="center">
+  <img src="images/physical-prototype/completed-gearbox-with-shifter.jpg" width="49%" alt="Completed gearbox with H-pattern shifter">
+  <img src="images/physical-prototype/geartrain-top-view.jpg" width="49%" alt="Top view of gearbox geartrain">
+</p>
 
-## Project Media
+<p align="center">
+  <img src="images/physical-prototype/bearing-end-view.jpg" width="49%" alt="Bearing and shaft end view">
+  <img src="images/physical-prototype/input-output-end-view.jpg" width="49%" alt="Input and output shaft end view">
+</p>
 
-Photos, CAD renders and demonstration footage will be added below.
+<p align="center">
+  <img src="images/physical-prototype/shaft-and-casing-disassembly.jpg" width="75%" alt="Selector shaft removed from gearbox casing">
+</p>
+
+<p align="center"><em>Partial disassembly showing the compound selector shaft and internal casing layout.</em></p>
