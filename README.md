@@ -14,11 +14,25 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 ## Physical Prototype
 
 <p align="center">
-  <img src="Media/prototype-photos/prototype-three-quarter-view.jpg" width="42%" alt="Three-quarter view of the physical gearbox">
-  <img src="Media/prototype-photos/prototype-top-view.jpg" width="42%" alt="Top view of the gearbox and gear arrangement">
+  <img src="Media/prototype-photos/prototype-view.jpg"
+       width="56%"
+       alt="Assembled five-speed gearbox prototype">
+</p>
+
+<p align="center">
+  <img src="Media/prototype-photos/completed-prototype-with-shifter.jpg"
+       width="42%"
+       alt="Completed gearbox with manual shifting mechanism">
+  <img src="Media/prototype-photos/prototype-input-view.jpg"
+       width="42%"
+       alt="Opposite-side view of the assembled gearbox">
   <br>
-  <img src="Media/prototype-photos/prototype-opposite-end-view.jpg" width="42%" alt="Opposite end view of the gearbox">
-  <img src="Media/prototype-photos/completed-prototype-with-shifter.jpg" width="42%" alt="Completed gearbox with the shifting mechanism installed">
+  <img src="Media/prototype-photos/prototype-disassembled.jpg"
+       width="42%"
+       alt="Disassembled gearbox components, shafts and casing">
+  <img src="Media/prototype-photos/prototype-top-down.jpg"
+       width="42%"
+       alt="Top-down view of the gearbox gear arrangement">
 </p>
 
 ## Demonstration Videos
@@ -29,12 +43,18 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 ## CAD Models
 
 <p align="center">
-  <img src="Media/cad-renders/gearbox-assembly-isometric.png" width="56%" alt="SolidWorks gearbox assembly">
+  <img src="Media/cad-renders/gearbox-assembly-isometric.png"
+       width="56%"
+       alt="SolidWorks gearbox assembly">
 </p>
 
 <p align="center">
-  <img src="Media/cad-renders/compound-input-gear.png" width="38%" alt="Compound input gear CAD model">
-  <img src="Media/cad-renders/selector-slider.png" width="38%" alt="Selector slider CAD model">
+  <img src="Media/cad-renders/compound-input-gear.png"
+       width="38%"
+       alt="Compound input gear CAD model">
+  <img src="Media/cad-renders/selector-slider.png"
+       width="38%"
+       alt="Selector slider CAD model">
 </p>
 
 ## Testing
