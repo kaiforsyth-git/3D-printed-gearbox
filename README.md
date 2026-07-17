@@ -17,8 +17,8 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 
 ## Demonstration Videos
 
-- [Watch forward gears demonstration](Media/prototype-videos/forward-gears-demonstration.mp4?raw=1)
-- [Watch reverse gear demonstration](Media/prototype-videos/reverse-gear-demonstration.mp4?raw=1)
+- [Forward gears demonstration](Media/prototype-videos/forward-gears-demonstration.mp4)
+- [Reverse gear demonstration](Media/prototype-videos/reverse-gear-demonstration.mp4)
 
 ## CAD Models
 
