@@ -13,7 +13,6 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 
 ## Physical Prototype
 
-<p align="center">
 
 
 <p align="center">
