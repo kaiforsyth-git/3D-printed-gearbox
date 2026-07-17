@@ -14,22 +14,27 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 ## Physical Prototype
 
 <p align="center">
-  <img src="Images/Physical-Img/completed-gearbox-with-shifter.jpg" width="42%" alt="Completed five-speed gearbox with shifter">
-  <img src="Images/Physical-Img/geartrain-front-view.jpg" width="42%" alt="Front view of the exposed gearbox">
+  <img src="Media/prototype-photos/prototype-three-quarter-view.jpg" width="42%" alt="Three-quarter view of the physical gearbox">
+  <img src="Media/prototype-photos/prototype-top-view.jpg" width="42%" alt="Top view of the gearbox and gear arrangement">
   <br>
-  <img src="Images/Physical-Img/shaft-and-casing-disassembly.jpg" width="42%" alt="Gearbox shaft removed from the casing">
-  <img src="Images/Physical-Img/input-output-end-view.jpg" width="42%" alt="Input and output shaft arrangement">
+  <img src="Media/prototype-photos/prototype-opposite-end-view.jpg" width="42%" alt="Opposite end view of the gearbox">
+  <img src="Media/prototype-photos/completed-prototype-with-shifter.jpg" width="42%" alt="Completed gearbox with the shifting mechanism installed">
 </p>
+
+## Demonstration Videos
+
+- [Forward gears demonstration](Media/prototype-videos/forward-gears-demonstration.mp4)
+- [Reverse gear demonstration](Media/prototype-videos/reverse-gear-demonstration.mp4)
 
 ## CAD Models
 
 <p align="center">
-  <img src="Images/CAD-Img/gearbox-assembly-isometric.png" width="56%" alt="SolidWorks gearbox assembly">
+  <img src="Media/cad-renders/gearbox-assembly-isometric.png" width="56%" alt="SolidWorks gearbox assembly">
 </p>
 
 <p align="center">
-  <img src="Images/CAD-Img/compound-input-gear.png" width="38%" alt="Compound input gear CAD model">
-  <img src="Images/CAD-Img/selector-slider.png" width="38%" alt="Selector slider CAD model">
+  <img src="Media/cad-renders/compound-input-gear.png" width="38%" alt="Compound input gear CAD model">
+  <img src="Media/cad-renders/selector-slider.png" width="38%" alt="Selector slider CAD model">
 </p>
 
 ## Testing
