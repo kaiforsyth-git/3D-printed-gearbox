@@ -1,6 +1,6 @@
 # Five-Speed 3D-Printed Gearbox
 
-A functional constant-mesh gearbox with five forward gears and reverse, designed in SolidWorks and manufactured primarily using FDM 3D printing.
+A functional constant-mesh gearbox with five forward gears and reverse, designed in SolidWorks and manufactured primarily using 3D printing.
 
 ## Project Details
 
