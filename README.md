@@ -15,17 +15,9 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 
 
 
-<p align="center">
-  <img src="Media/prototype-photos/completed-prototype-with-shifter.jpg"
-       width="42%"
-       alt="Completed gearbox with manual shifting mechanism">
+## Physical Prototype
 
- 
-  <img src="Media/prototype-photos/prototype-disassembled.jpg"
-       width="42%"
-       alt="Disassembled gearbox components, shafts and casing">
-
-</p>
+<p align="center"><img src="Media/prototype-photos/completed-prototype-with-shifter.jpg" width="40%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/prototype-photos/prototype-disassembled.jpg" width="40%" alt="Disassembled gearbox components, shafts and casing"></p>
 
 ## Demonstration Videos
 
