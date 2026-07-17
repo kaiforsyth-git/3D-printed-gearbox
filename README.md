@@ -7,7 +7,7 @@ A functional five-speed gearbox with reverse, designed in SolidWorks and manufac
 - Five-speed transmission with reverse
 - 1:1 direct-drive ratio
 - SolidWorks part and assembly modelling
-- FDM 3D-printed components and housing
+- 3D-printed components and housing
 - Split casing and shaft design to accommodate printer build-volume limits
 - Physical assembly, testing and iterative refinement
 - Completed working prototype
