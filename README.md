@@ -19,7 +19,7 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 
 ## Physical Prototype
 
-<p align="center"><img src="Media/prototype-photos/completed-prototype-with-shifter.jpg" width="48%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/prototype-photos/prototype-disassembled.jpg" width="38%" alt="Disassembled gearbox components, shafts and casing"></p>
+<p align="center"><img src="Media/prototype-photos/completed-prototype-with-shifter.jpg" width="49%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/prototype-photos/prototype-disassembled.jpg" width="36%" alt="Disassembled gearbox components, shafts and casing"></p>
 
 ## Demonstration Videos
 
@@ -34,13 +34,9 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
        alt="SolidWorks gearbox assembly">
 </p>
 
+<p align="center"><img src="Media/cad-renders/compound-input-gear.png" width="49%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/cad-renders/selector-slider.png" width="36%" alt="Disassembled gearbox components, shafts and casing"></p>
 <p align="center">
-  <img src="Media/cad-renders/compound-input-gear.png"
-       width="38%"
-       alt="Compound input gear CAD model">
-  <img src="Media/cad-renders/selector-slider.png"
-       width="38%"
-       alt="Selector slider CAD model">
+ 
 </p>
 
 ## Testing
