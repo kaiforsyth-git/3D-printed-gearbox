@@ -13,31 +13,22 @@ A functional constant-mesh gearbox with five forward gears and reverse, designed
 
 ## Physical Prototype
 
-
-
-## Physical Prototype
-
-## Physical Prototype
-
 <p align="center"><img src="Media/prototype-photos/completed-prototype-with-shifter.jpg" width="49%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/prototype-photos/prototype-disassembled.jpg" width="35.9%" alt="Disassembled gearbox components, shafts and casing"></p>
 
 ## Demonstration Videos
 
-- [Forward gears demonstration](Media/prototype-videos/forward-gears-demonstration.mp4)
-- [Reverse gear demonstration](Media/prototype-videos/reverse-gear-demonstration.mp4)
+- [Watch forward gears demonstration](Media/prototype-videos/forward-gears-demonstration.mp4?raw=1)
+- [Watch reverse gear demonstration](Media/prototype-videos/reverse-gear-demonstration.mp4?raw=1)
 
 ## CAD Models
 
 <p align="center">
   <img src="Media/cad-renders/gearbox-assembly-isometric.png"
        width="56%"
-       alt="SolidWorks gearbox assembly">
+       alt="Isometric SolidWorks gearbox assembly">
 </p>
 
-<p align="center"><img src="Media/cad-renders/compound-input-gear.png" width="44%" alt="Completed gearbox with manual shifting mechanism">&nbsp;&nbsp;<img src="Media/cad-renders/selector-slider.png" width="41%" alt="Disassembled gearbox components, shafts and casing"></p>
-<p align="center">
- 
-</p>
+<p align="center"><img src="Media/cad-renders/compound-input-gear.png" width="44%" alt="Compound input gear CAD model">&nbsp;&nbsp;<img src="Media/cad-renders/selector-slider.png" width="41%" alt="Selector slider CAD model"></p>
 
 ## Testing
 
